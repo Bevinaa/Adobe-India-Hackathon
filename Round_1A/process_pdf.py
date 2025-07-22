@@ -1,11 +1,9 @@
 """
-Adobe Hackathon Challenge 1A: PDF Outline Extraction
+Adobe Hackathon 
+Round 1A: Understand Your Document
+Round 1B: Persona-Driven Document Intelligence 
 
 SUBMITTED BY : Team_BD (Bevina R, Deepitha P - SSNCE)
-
-This script processes PDF files and extracts a structured outline,
-including document titles and hierarchical headings (like H1, H2, H3).
-It uses PyMuPDF (fitz) for reading PDFs and optionally validates the output JSON.
 """
 
 import os, json, jsonschema, time, re
