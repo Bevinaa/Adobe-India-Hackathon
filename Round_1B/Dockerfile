@@ -1,6 +1,11 @@
-# Adobe Hackathon Challenge 1B: Persona-Driven PDF Analysis
+# Adobe Hackathon Challenge 1B: Persona-Guided Document Relevance Engine
 
 FROM --platform=linux/amd64 python:3.10-slim
+
+# Metadata for documentation and traceability
+LABEL maintainer="Bevina R bevina2210766@ssn.edu.in"
+LABEL description="Persona-Guided Document Relevance Engine for Adobe Hackathon Challenge 1B"
+LABEL version="1.0"
 
 # Set working directory inside the container
 WORKDIR /app
