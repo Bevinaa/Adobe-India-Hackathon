@@ -78,7 +78,7 @@ Adobe-India-Hackathon/
 
 - **Challenge 1A**: Completes 50-page PDF parsing in ≤10 seconds   
 - **Challenge 1B**: Processes multi-document collections in ≤60 seconds  
-- **Memory Footprint**: Under 1GB total usage — well within 16GB system budget  
+- **Memory Footprint**: Under 1GB total usage, well within 16GB system budget  
 - **CPU Usage**: Tuned for multi-core performance on AMD64 systems (8-core ready) 
 
 ---
