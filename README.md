@@ -17,6 +17,7 @@ Adobe-India-Hackathon/
 │   ├── sample_dataset/         # Test data and schema
 ├── Round_1B/
 │   ├── analyze_collections.py  # Multi-collection analyzer
+│   ├── process_pdf.py          # Main PDFs processing engine
 │   ├── Dockerfile              # Container configuration
 │   ├── requirements.txt        # Dependencies
 │   ├── Collection 1/           # Travel planning dataset
@@ -149,6 +150,30 @@ This outlines how the submitted solution meets all the requirements for **Adobe 
    git clone https://github.com/Bevinaa/Adobe-India-Hackathon.git
    cd Adobe-India-Hackathon
    ```
+## For Explicit Run:
+
+**Navigate to Round_1A Folder**
+```bash
+Run process_pdf.py for Round_1A
+```
+
+**Navigate to Round_1B Folder**
+```bash
+Run analyze_collections.py for Round_1B
+```
+
+## Run with Docker
+
+**Navigate to Round_1A Folder**
+```bash
+Build the Docker image and run the container : https://github.com/Bevinaa/Adobe-India-Hackathon/blob/main/Round_1A/Dockerfile
+```
+
+**Navigate to Round_1B Folder**
+```bash
+Build the Docker image and run the container : https://github.com/Bevinaa/Adobe-India-Hackathon/blob/main/Round_1B/Dockerfile
+```
+
 ---
 
 ## Ready for Submission ✅ 
