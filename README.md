@@ -2,7 +2,7 @@
 
 ## Round 2 - "Build and Connect Round" - COMPLETE SOLUTION
 
-![Status](https://img.shields.io/badge/status-Project%20Complete-brightgreen)
+![Status](https://img.shields.io/badge/status-%20completed-brightgreen)
 
 This is the official submission for Adobe Hackathon 2025 - Connecting the Dots by **Team_BD**, containing a robust and ready-to-run solution for both Challenge 1A and 1B.
 
